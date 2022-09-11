@@ -1,2 +1,2 @@
 # github-demo
-大佬！萌新求带
+this is a readme file
